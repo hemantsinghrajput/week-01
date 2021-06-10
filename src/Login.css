@@ -1,0 +1,24 @@
+@media all and (min-width: 200px) {
+    .Login {
+      padding: 60px 0;
+      background-color:rgb(240, 218, 234);
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+      background-color:antiquewhite;
+    }
+  }
+  @media all and (min-width: 200px) {
+    .Sign-in {
+      padding: 60px 0;
+      background-color:rgb(243, 242, 174);
+    }
+  
+    .Sign-in form {
+      margin: 0 auto;
+      max-width: 320px;
+      background-color:antiquewhite;
+    }
+  }
